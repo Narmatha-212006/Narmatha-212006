@@ -67,9 +67,8 @@ IT support ticket management system with role-based access and AI chatbot suppor
 
 - Programming in Java – NPTEL  
 - Python Programming – GUVI  
-- Introduction to IoT – Cisco Networking Academy  
-- Data Science for Beginners – Board Infinity  
-- Building Data Models with ABAP Dictionary and ABAP Core Data Services – SAP Learning  
+- Full Stack Development (Global IP Project) – Infosys Springboard  
+- Java Foundation – Infosys Springboard  
 
 ---
 
