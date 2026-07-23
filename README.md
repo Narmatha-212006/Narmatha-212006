@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Narmatha M</h1>
-<h3 align="center">Computer Science Engineering Student | Java & Python Developer | Full-Stack Developer</h3>
+<h3 align="center">Computer Science Engineering Student | Java Developer | Full-Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+Generative+AI+Enthusiast;Java+%26+Python+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+Generative+AI+Enthusiast;Java+Developer;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
