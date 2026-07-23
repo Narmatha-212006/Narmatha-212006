@@ -25,8 +25,8 @@ I'm a Computer Science Engineering student passionate about software development
 
 ### 🛠️ Technical Skills
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=java,python,c#,mysql,js" />
+**Languages**   
+<img src="https://skillicons.dev/icons?i=java,python,cs,mysql,js" />
 
 **Web Development**  
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
