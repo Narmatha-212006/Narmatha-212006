@@ -68,7 +68,8 @@ IT support ticket management system with role-based access and AI chatbot suppor
 - Programming in Java – NPTEL  
 - Python Programming – GUVI  
 - Full Stack Development (Global IP Project) – Infosys Springboard  
-- Java Foundation – Infosys Springboard  
+- Java Foundation – Infosys Springboard
+- Building Data Models with ABAP Dictionary and ABAP Core Data Services – SAP Learning 
 
 ---
 
